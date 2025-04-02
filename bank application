@@ -1,0 +1,9 @@
+Work on developing a Banking Software with all the stages of SDLC:
+
+Customer requirement:
+
+A banking application to manage user and account.
+username, password, user mobile, user email, account number, balance, transfer money, receive money.
+User should be able to login and check his account details.
+User should be able to transfer money from his account. 
+There should be 1 admin login with which users can be created, deleted, assign account number, credit/debit the accounts, change the password of users.
